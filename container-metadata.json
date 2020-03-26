@@ -1,0 +1,15 @@
+{
+  "ernVersion": "0.40.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "file:/var/folders/t4/8qy1kj0s7r75f_stw8sbfvwm0000gp/T/tmp-58970pmLQoy536zD0"
+  ],
+  "nativeDeps": [
+    "react-native@0.60.6",
+    "ernnavigation-api@1.2.5",
+    "ernnavigation-api-impl-native@1.3.25",
+    "react-native-electrode-bridge@1.5.23",
+    "react-native-svg@12.0.3"
+  ],
+  "platform": "android"
+}
