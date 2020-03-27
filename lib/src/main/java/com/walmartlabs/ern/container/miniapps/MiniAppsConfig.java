@@ -19,7 +19,7 @@ package com.walmartlabs.ern.container.miniapps;
 // DO NOT EDIT MANUALLY
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import com.walmartlabs.ern.container.ElectrodeMiniAppActivity;
 import java.util.HashMap;
 
